@@ -10,8 +10,6 @@
 }
 
 body {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
   color: rgb(var(--bs-tertiary-color-rgb));
   font-family: 'Source Sans Pro', sans-serif;
 }
@@ -94,4 +92,14 @@ body {
 
 .justify-text {
   text-align: justify;
+}
+
+.header, .footer {
+  background-color: #2F358B;
+  color: white;
+}
+
+.nav-link{
+  color: white !important;
+
 }
